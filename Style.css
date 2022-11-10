@@ -1,0 +1,238 @@
+#Background {
+  width: 100vw; /* view Width */
+  height: 100vh; /* view Height */
+  background-image: url("img/Background1.jpg");
+  background-size: 110%;
+  background-repeat: no-repeat;
+
+}
+
+#Cabecalho {
+	position: absolute;
+	top: -5px; 
+    right: 850px; 
+	align-items: left;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background: rgba(0,0,200,.5); 
+	border: #000000 solid;
+    border-width: 3px;
+}
+
+#Battle {
+   position: absolute; 
+   top: 560px; 
+   right: 550px; 
+   text-decoration: none;
+   color: #000000;
+   text-align: center;
+   font-family: serif;
+   height: 57px;
+   width: 200px;
+   border: #000000 solid;
+   border-width: 3px;
+   background-color: #d2a679;
+   }
+
+#Restart{
+	position: absolute;
+	top: 1px;
+	right: 10px;
+    height: 60px;
+    width: 90px;
+    border: #000000 solid;
+    border-width: 2px;
+    background-color: #d2a679;
+   }
+
+#link{
+text-decoration: none;
+color: #000000;
+text-align: center;
+font-family: serif;
+}
+#Cheap {
+    align-items: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: center; 
+}
+
+.Saber {
+	position: absolute;
+	top: 100px;
+	left: -5px;
+	height: 60vh;
+	width: 12vw;
+	border-style: solid;
+	border-width: 2px;
+	margin-left: 10px;
+	background-color: #d2a679;
+}
+
+.imgSaber{
+	width: 100%;
+	height: 55%;
+}
+
+.Rider {
+	position: absolute;
+	top: 100px;
+	left: 163px;
+	height: 60vh;
+	width: 12vw;
+	border-style: solid;
+	border-width: 2px;
+	margin-left: 10px;
+	background-color: #d2a679;
+}
+
+.imgRider{
+	width: 100%;
+	height: 55%;
+}
+
+.Lancer {
+	position: absolute;
+	top: 100px;
+	left: 1010px;
+	height: 60vh;
+	width: 12vw;
+	border-style: solid;
+	border-width: 2px;
+	margin-left: 10px;
+	background-color: #d2a679;
+}
+
+.imgLancer{
+	width: 100%;
+	height: 55%;
+}
+
+.Gilgamesh {
+	position: absolute;
+	top: 100px;
+	left: 840px;
+	height: 60vh;
+	width: 12vw;
+	border-style: solid;
+	border-width: 2px;
+	margin-left: 10px;
+	background-color: #d2a679;
+}
+
+.imgGilgamesh{
+	width: 100%;
+	height: 55%;
+}
+
+.Caster {
+	position: absolute;
+	top: 100px;
+	left: 500px;
+	height: 60vh;
+	width: 12vw;
+	border-style: solid;
+	border-width: 2px;
+	margin-left: 10px;
+	background-color: #d2a679;
+}
+
+.imgCaster{
+	width: 100%;
+	height: 55%;
+}
+
+.Berserker {
+	position: absolute;
+	top: 100px;
+	left: 330px;
+	height: 60vh;
+	width: 12vw;
+	border-style: solid;
+	border-width: 2px;
+	margin-left: 10px;
+	background-color: #d2a679;
+}
+
+.imgBerserker{
+	width: 100%;
+	height: 55%;
+}
+
+.Assassin {
+	position: absolute;
+	top: 100px;
+	left: 670px;
+	height: 60vh;
+	width: 12vw;
+	border-style: solid;
+	border-width: 2px;
+	margin-left: 10px;
+	background-color: #d2a679;
+}
+
+.imgAssassin{
+	width: 100%;
+	height: 55%;
+}
+
+.Archer {
+	position: absolute;
+	top: 100px;
+	left: 1180px;
+	height: 60vh;
+	width: 12vw;
+	border-style: solid;
+	border-width: 2px;
+	margin-left: 10px;
+	background-color: #d2a679;
+}
+
+.imgArcher{
+	width: 100%;
+	height: 55%;
+}
+
+#choose {
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+#Card1 {
+	position: absolute;
+	bottom: 0;
+	top: 500px;
+	left: 5px;
+	height: 600px;
+	width: 1000px;
+	bottom: solid;
+	border-width: 5px;
+
+}
+
+#Card1img {
+	width: 55%;
+	height: 50%;
+}
+
+#Card2 {
+	position: absolute;
+	bottom: 0;
+	top: 500px;
+	left: 760px;
+	height: 600px;
+	width: 1000px;
+	bottom: solid;
+	border-width: 5px;
+	
+}
+
+#Card2img {
+	width: 55%;
+	height: 50%;
+}
+

@@ -1,0 +1,61 @@
+#Background {
+  background-image: url("img/Background.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  backface-visibility: 50%;
+}
+
+#title {
+	display: flex;
+	margin: 0;
+    padding: 0;
+	border: #000000 solid;
+    border-width: 2px;
+    background: rgba(0,0,200,.5);
+}
+
+#title h1 {
+	text-align: center;
+	display: flex;
+    align-items: center;
+}
+
+#Base {
+	display: flex;
+    align-items: center;
+	margin: 0;
+    padding: 0;
+	border: #000000 solid;
+    border-width: 2px;
+	background: rgba(0,0,200,.5);
+}
+
+#Creator  {
+	position: absolute;
+	left: 1070px;
+	width: 240px;
+	height: 90px;
+	top: 540px;
+	border: #000000 solid;
+    border-width: 2px;
+	background: rgba(0,0,200,.5);
+}
+
+#Start {
+	display: flex;
+	flex-direction: row;
+    align-items: center;
+	margin: 0;
+    padding: 0;
+    border: #000000 solid;
+    border-width: 2px;
+    background-color: #ff087f;
+    background: rgba(0,0,200,.5);
+   }
+
+#link {
+text-decoration: none;
+color: #000000;
+text-align: center;
+font-family: serif;
+}
